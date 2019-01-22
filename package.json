@@ -1,0 +1,11 @@
+{
+  "name": "od-math",
+  "version": "1.4.0",
+  "description": "",
+  "main": "math.js",
+  "author": "",
+  "license": "ISC",
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {}
+}
